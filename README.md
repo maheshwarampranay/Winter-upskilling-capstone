@@ -201,13 +201,3 @@ This project is part of an educational program. Please refer to your institution
 ## 🤝 Contributing
 
 This is a capstone project for educational purposes. If you have suggestions or improvements, feel free to open an issue or submit a pull request.
-
-## 📞 Contact
-
-For questions about this project, please reach out through GitHub or contact the repository owner.
-
----
-
-**Last Updated:** June 2026
-
-**Project Status:** In Progress - Winter Upskilling Capstone 2024-25
